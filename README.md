@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://via.placeholder.com/300x80?text=HunarGyan+Logo" alt="HunarGyan Logo">
+  <img src="https://github.com/user-attachments/assets/b8ad5ab1-ab34-443b-b5da-de3d1b92971" alt="HunarGyan Logo">
 </p>
+
 
 # HunarGyan 🎨🤖🇮🇳  
 **Smart Offline-First AI Assistant for Indian Artisans**
