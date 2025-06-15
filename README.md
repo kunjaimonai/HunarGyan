@@ -52,11 +52,8 @@ All **core features work offline** with local AI models. Translation between Ind
 ---
 
 ## 🖥️ UI Glimpse
-
-| Dashboard | Document Crafting | Marketing Generator |
-|----------|-------------------|---------------------|
-| ![Dashboard](https://via.placeholder.com/250x150?text=Dashboard) | ![Doc](https://via.placeholder.com/250x150?text=Craft+Document) | ![Marketing](https://via.placeholder.com/250x150?text=Marketing+Content) |
-
+<a href="![Logo](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/dashboard.png)
+">DashBoard</a>
 ---
 
 ## 🧰 Tech Stack
