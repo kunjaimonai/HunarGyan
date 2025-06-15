@@ -56,7 +56,7 @@ All **core features work offline** with local AI models. Translation between Ind
 [Dashboard UI](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/dashboard.png)
 [Profile UI](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/profile.png)
 [Document Craft UI](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/documentation.png)
-[Marketing Content UI](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/marketing.png)
+[Marketing Content UI](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/marketing_content.png)
 [Inspirations UI](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/inspo.png)
 [Saved Works UI](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/works.png)
 [Settings UI](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/settings.png)
