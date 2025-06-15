@@ -77,7 +77,7 @@ All **core features work offline** with local AI models. Translation between Ind
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/hunargyan.git
+git clone https://github.com/kunjaimonai/HunarGyan.git
 cd hunargyan
 
 # 2. Backend Setup (FastAPI + AI models)
