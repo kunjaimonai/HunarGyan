@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8ad5ab1-ab34-443b-b5da-de3d1b92971" alt="HunarGyan Logo">
+  ![logo](https://github.com/user-attachments/assets/b8ad5ab1-ab34-443b-b5da-de3d1b929713)
 </p>
 
 
