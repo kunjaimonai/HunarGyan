@@ -78,7 +78,8 @@ All **core features work offline** with local AI models. Translation between Ind
 ```bash
 # 1. Clone the repository
 git clone https://github.com/kunjaimonai/HunarGyan.git
-cd hunargyan
+cd HunarGyan
+
 
 # 2. Backend Setup (FastAPI + AI models)
 cd backend
@@ -87,12 +88,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-# 3. Start Sarvam-M Local Translation Server (already included)
-# Run Sarvam-M translation server in background
-cd ../sarvam-m-server
-python app.py  # or provided run script
+
 
 # 4. Frontend Setup (Next.js)
 cd ../frontend
-npm install
-npm run dev
+pnpm install
+pnpm run dev
