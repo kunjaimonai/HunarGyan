@@ -52,8 +52,10 @@ All **core features work offline** with local AI models. Translation between Ind
 ---
 
 ## 🖥️ UI Glimpse
-<a href="![Logo](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/dashboard.png)
-">DashBoard</a>
+## 🖥️ UI Glimpse
+
+[Dashboard UI](https://raw.githubusercontent.com/kunjaimonai/HunarGyan/main/Images/dashboard.png)
+
 ---
 
 ## 🧰 Tech Stack
