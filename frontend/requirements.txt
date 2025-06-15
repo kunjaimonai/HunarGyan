@@ -1,0 +1,7 @@
+next
+react
+react-dom
+typescript
+eslint
+@types/react
+@types/node
