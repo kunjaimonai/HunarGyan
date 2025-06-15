@@ -6,7 +6,7 @@
 # HunarGyan 🎨🤖🇮🇳  
 **Smart Offline-First AI Assistant for Indian Artisans**
 
-> Helping India’s weavers, potters, and woodworkers document, design, and market their craft—**offline**, in their **language**, with zero tech friction.
+> Helping India’s weavers, potters, and woodworkers etc.. document, design, and market their craft—**offline**, in their **language**, with zero tech friction.
 
 ---
 
@@ -28,7 +28,7 @@ All **core features work offline** with local AI models. Translation between Ind
 | 🧱 Module | 💡 Capabilities |
 |----------|----------------|
 | 📊 **Dashboard** | View crafts, design ideas, and content created. Quick actions for creation. |
-| 👤 **Artisan Profile** | Auto-generated artisan bio from past projects |
+| 👤 **Artisan Profile** | Artisan Details |
 | 📄 **Craft Documentation** | Voice/text input + images + step-wise editing (offline) |
 | 📢 **Marketing Content** | AI-generated social media posts, banners, and newsletters |
 | 🎨 **Design Generator** | Upload sketch ➜ get suggestions, materials, references |
