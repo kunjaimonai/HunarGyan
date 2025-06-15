@@ -93,9 +93,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-
-
-# 4. Frontend Setup (Next.js)
+# 3. Frontend Setup (Next.js)
 cd ../frontend
 pnpm install
 pnpm run dev
